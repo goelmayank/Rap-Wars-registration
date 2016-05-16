@@ -467,14 +467,14 @@ button.fs-continue,
 
 .fs-fields input.fs-mark {
     padding-left: 1em;
-    background-image: url(../img/dollar.svg);
+    background-image: url(../img/phone.png);
     background-position: 0% 0.15em;
     background-size: auto 75%;
     background-repeat: no-repeat;
 }
 
 .fs-fields input.fs-mark[required] {
-    background-image: url(../img/dollar.svg), url(../img/abacusstar.svg);
+    background-image: url(../img/phone.png), url(../img/abacusstar.svg);
     background-position: 0% 0.15em, top right;
     background-size: auto 75%, 18px;
     background-repeat: no-repeat;
